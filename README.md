@@ -16,4 +16,4 @@ Soy un ingeniero en Mecatrónica Agrícola apasionado por la inteligencia artifi
 - **Automatización de albercas**: Sistema de control de bombas e iluminación con ESP32 y Raspberry Pi.
 
 ## 📫 Conéctate conmigo
-🔗 [LinkedIn](www.linkedin.com/in/yael-vicente-437467235)
+🔗 [LinkedIn](https://www.linkedin.com/in/yael-vicente-437467235/)
